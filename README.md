@@ -1,4 +1,4 @@
-# Ensemble-Machine-Learning Project Outline
+# Ensemble Machine Learning Project Outline
  An implementation of ensemble machine learning techinques using the UCI heart disease dataset
 
 ## 1. Project Overview:
