@@ -25,7 +25,7 @@
   
      a. Random Forest Classifier
   
-     b. Gradient Boosting Classifier
+     b. Decision Tree Classifier
   
 - Hyperparameter Tuning: Use grid search or random search to find optimal parameters for each model.
 
