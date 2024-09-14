@@ -1,5 +1,5 @@
 # Ensemble Machine Learning Project Outline
- An implementation of ensemble machine learning techinques using the UCI heart disease dataset
+ An implementation of ensemble machine learning techniques using the UCI heart disease dataset
 
 ## 1. Project Overview:
 - Objective: Develop a model to predict the likelihood of a patient having cardiovascular disease based on clinical features.
