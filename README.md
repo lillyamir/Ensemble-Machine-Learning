@@ -36,11 +36,3 @@
 ## 7. Model Evaluation:
 - Cross-Validation: Use cross-validation techniques to evaluate model performance.
 - Performance Metrics: Analyze models based on accuracy, precision, recall, F1-score, and AUC-ROC curve.
-
-## 8. Results and Discussion:
-- Model Comparison: Compare the performance of individual models and the ensemble model.
-- Feature Importance: Analyze and visualize the feature importances derived from the models.
-
-## 9. Conclusion:
-- Summary of Findings: Summarize the performance and findings of the project.
-- Implications: Discuss the potential real-world applications of the models.
